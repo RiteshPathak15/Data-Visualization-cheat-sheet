@@ -30,7 +30,7 @@ pip install matplotlib seaborn plotly
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/data-visualization-cheatsheet.git](https://github.com/RiteshPathak15/Data-Visualization-cheat-sheet.git)
+   https://github.com/RiteshPathak15/Data-Visualization-cheat-sheet.git
    cd data-visualization-cheatsheet
    ```
 2. Open Jupyter Notebook:
